@@ -1,1 +1,0 @@
-# arduino-ovladac-sevseg-dht11
